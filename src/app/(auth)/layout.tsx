@@ -33,7 +33,7 @@ export default async function RootAuthLayout({ children }) {
         <div className="grid grid-cols-[1fr_500px_1fr] w-screen h-screen bg-surface-container">
           <div className="flex flex-col justify-center items-center gap-[150px] w-full h-full bg-background">
             <div className="font-bold text-primary text-[57px] text-center w-[250px] h-[70px]">
-              schcool.
+              hedwig.
             </div>
             <div className="flex flex-col gap-[10px] text-primary w-[270px] h-fit p-[10px]">
               <NavItem
@@ -60,7 +60,7 @@ export default async function RootAuthLayout({ children }) {
               <RulesItem />
             </div>
             <div className="flex justify-center items-center gap-[10px] text-primary w-full h-[70px] mb-[30px] py-[10px] select-none">
-              <span className="font-semibold">simple.</span>
+              <span className="font-semibold">abcde.</span>
               <span className="font-light">@</span>
               <span className="font-semibold">2025</span>
             </div>
