@@ -1,1 +1,6 @@
-![Zrzut ekranu 2025-03-14 202853](https://github.com/user-attachments/assets/075edca6-0a21-409a-ab26-8ccbb4aa4a4f)
+### welcome to hedwig, place, where your mind knows no limits
+
+#### if you want to see my application, download this, and run docker compose using:
+<code>sudo docker compose up</code>
+
+###### thanks for attention ;*
